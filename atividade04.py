@@ -4,7 +4,7 @@ pares = 0
 impares = 0
 
 while True:
-    entrada = input("Digite um número inteiro (ou 'fim' para encerrar): ")
+    entrada = input("Digite um número inteiro ou 'fim' para encerrar: ")
 
     if entrada.lower() == 'fim':
         break
